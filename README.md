@@ -1,38 +1,29 @@
-# Hi there, I'm Phuoc! 👋
+# Hi, I'm Phuoc 👋
 
-### Welcome to my GitHub profile!
+Full-stack developer in Helsinki. I work mostly in TypeScript: React and Next.js on the front end, Node.js and NestJS on the back end.
 
-Hi, I'm Phuoc Nguyen, a passionate Full-stack Developer with nearly five years of hands-on experience in the tech industry. My expertise lies in full-stack development, with a strong proficiency in ReactJS. Currently, I'm expanding my skill set by learning **C programming** at **Hive Helsinki**.
+**Open to work:** full-time developer roles in the Helsinki area or remote.
+Email phuoc94@hotmail.fi or find me on [LinkedIn](https://fi.linkedin.com/in/nguyen-phuoc).
 
-Throughout my career, I've had the opportunity to work on diverse projects that have allowed me to refine my skills and deepen my knowledge across various domains. My journey has been driven by a commitment to continuous learning and a desire to excel as a Full-stack Developer.
+## What I work with
 
-I'm always eager to expand my technical horizons and collaborate with innovative professionals. Let's connect and explore how we can work together to create impactful digital solutions that drive success and innovation.
+- **Frontend:** React, Next.js, Vue, Tailwind CSS, GSAP
+- **Backend:** Node.js, NestJS, Zod, REST APIs
+- **Testing:** Vitest, Jest, Playwright, axe-core
+- **Hosting:** Cloudflare Workers and D1, Vercel, Azure
+- **AI:** Claude API, MCP tools
+- C and C++ from Hive Helsinki
 
-- 🌱 I’m currently learning **C programming** at Hive Helsinki
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, JavaScript, React, Node.js, and C programming**
-- 📫 How to reach me: **phuoc94@hotmail.fi**
+## Recent work
 
-### My GitHub Stats
+- **[koodimo.fi](https://koodimo.fi)**: a Next.js 16 static site on Cloudflare Workers, with an animated split-flap price board, plus the contact-form service behind it, which I built on Workers and D1 in the EU.
+- **Restaurant websites**: [kimrestaurant.fi](https://kimrestaurant.fi) (Vue, [code](https://github.com/phuoc94/kim-restaurant)) and [kaunokitchen.fi](https://kaunokitchen.fi).
 
-![Phuoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuoc94&show_icons=true&theme=radical)
+## Open source
 
-### Top Languages
+- City of Helsinki design system: [stop the space key on a tab from scrolling the page](https://github.com/City-of-Helsinki/helsinki-design-system/pull/1732) (in review)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuoc94&layout=compact&theme=radical)
+## Background
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://fi.linkedin.com/in/nguyen-phuoc)
-[![Personal Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://phuocnguyen.fi/)
-
-### Recent Projects
-
-- **[libft](https://github.com/phuoc94/libft)**: A custom implementation of the standard C library functions.
-- **[ft_printf](https://github.com/phuoc94/ft_printf)**: A recreation of the printf function in C, handling various format specifiers.
-- **[get_next_line](https://github.com/phuoc94/get_next_line)**: A function to read a line from a file descriptor, useful for parsing files line by line.
-- **[push_swap](https://github.com/phuoc94/push_swap)**: A sorting algorithm project that sorts data on a stack, with a limited set of operations and the smallest number of moves.
-
-Feel free to check out my repositories and get in touch if you'd like to collaborate!
-
-Thanks for visiting my profile!
+- [Hive Helsinki](https://www.hive.fi): C and C++ projects such as [libft](https://github.com/phuoc94/libft), [ft_printf](https://github.com/phuoc94/ft_printf) and [push_swap](https://github.com/phuoc94/push_swap)
+- [Junction 2023](https://github.com/phuoc94/Junction_2023_PainManagement) hackathon project
