@@ -19,10 +19,6 @@ Email phuoc94@hotmail.fi or find me on [LinkedIn](https://fi.linkedin.com/in/ngu
 - **[koodimo.fi](https://koodimo.fi)**: a Next.js 16 static site on Cloudflare Workers, with an animated split-flap price board, plus the contact-form service behind it, which I built on Workers and D1 in the EU.
 - **Restaurant websites**: [kimrestaurant.fi](https://kimrestaurant.fi) (Vue, [code](https://github.com/phuoc94/kim-restaurant)) and [kaunokitchen.fi](https://kaunokitchen.fi).
 
-## Open source
-
-- City of Helsinki design system: [stop the space key on a tab from scrolling the page](https://github.com/City-of-Helsinki/helsinki-design-system/pull/1732) (in review)
-
 ## Background
 
 - [Hive Helsinki](https://www.hive.fi): C and C++ projects such as [libft](https://github.com/phuoc94/libft), [ft_printf](https://github.com/phuoc94/ft_printf) and [push_swap](https://github.com/phuoc94/push_swap)
